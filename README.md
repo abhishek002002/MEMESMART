@@ -1,7 +1,7 @@
-# X-MEME
+# MEMESMART
 A full stack application, where various users can post memes by providing there name, caption and the url of the meme.
 <h1 align="center">
-🌐 <a href = "https://xmeme.netlify.app/">XMeme</a>
+🌐 <a href = "https://xmeme.netlify.app/">XMEMESMART</a>
 </h1>
 <h2 align ="center">Post and enjoy MEMES</h2>
 
